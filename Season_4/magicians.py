@@ -1,6 +1,6 @@
 # magicians = ['alice', 'david', 'carolina']
 # for magician in magicians:
-#     print(magician) 
+#     print(magician)
 
 # magicians = ['alice', 'david', 'carolina']
 

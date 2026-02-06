@@ -1,5 +1,5 @@
 # for variable in collection:
-    #statements
+# statements
 
 # magicians = ['alice', 'david', 'carolina']
 # for magician in magicians:

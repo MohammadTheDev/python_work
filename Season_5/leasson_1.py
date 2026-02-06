@@ -34,8 +34,8 @@
 # person.clear()
 # print(person)
 
-person = {'name': 'Lale', 'age': 4}
+person = {"name": "Lale", "age": 4}
 person_copy = person.copy()
-person_copy['age'] = 5
+person_copy["age"] = 5
 
-print(person['age'])
+print(person["age"])

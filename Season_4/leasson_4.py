@@ -46,11 +46,11 @@
 # friend_sports.append('tennis')
 # print(my_sports)
 
-my_sports = ['football', 'chess', 'basketball', 'volleyball'] 
+my_sports = ["football", "chess", "basketball", "volleyball"]
 friend_sports = my_sports[:]
 print(my_sports)
 print(friend_sports)
 
-friend_sports.append('tennis')
+friend_sports.append("tennis")
 print(my_sports)
 print(friend_sports)

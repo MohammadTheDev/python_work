@@ -1,4 +1,4 @@
-# s = '''This is 
+# s = '''This is
 # a multiline
 # string'''
 
@@ -8,7 +8,7 @@
 # s =  prime_numbers[0]
 # print(s)
 
-# tuple 
+# tuple
 # prime_numbers = (2, 3, 5, 7)
 # s= prime_numbers[0]
 # f = prime_numbers[2] = 44

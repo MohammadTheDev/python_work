@@ -75,7 +75,7 @@
 # print("\nHere is the original list again:")
 # print(cars)
 
-cars = ['bmw', 'audi', 'toyota', 'subaru']
+cars = ["bmw", "audi", "toyota", "subaru"]
 print(cars)
 
 cars.reverse()
